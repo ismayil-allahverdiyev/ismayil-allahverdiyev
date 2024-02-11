@@ -3,17 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismayil-allahverdiyev" alt="ismayil-allahverdiyev" /></a> </p>
 
-🔭 I’m currently working on multiple projects: [Near city](https://drive.google.com/file/d/1WB2kjb_xIZLmh9wYbobJENGea8_rMr38/view?usp=sharing (It is a private project so this is the demonstration video))
+🔭 I’m currently working on multiple projects:
+- [Near city(presentation repo)](https://drive.google.com/file/d/1WB2kjb_xIZLmh9wYbobJENGea8_rMr38/view?usp=sharing)
+- [Madness fitness center](https://github.com/ismayil-allahverdiyev/madness_web)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ismayil-allahverdiyev](https://github.com/ismayil-allahverdiyev)
+👨‍💻 All of my projects are available at [https://github.com/ismayil-allahverdiyev](https://github.com/ismayil-allahverdiyev)
 
-- 💬 Ask me about **Flutter, ASP.NET, React.js, Node.js**
+💬 Ask me about **Flutter, ASP.NET, React.js, Node.js**
 
-- 📫 How to reach me **allahverdiyev.ismayl@mail.ru**
+📫 How to reach me **allahverdiyev.ismayl@mail.ru**
 
-- 📄 Know about my experiences [cvlink](cvlink)
+📄 Know about my experiences [cvlink](cvlink)
 
-- ⚡ Fun fact **I am a gymrat and a painter. I love to diversify my skills✌️**
+⚡ Fun fact **I am a gymrat and a painter. I love to diversify my skills✌️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
