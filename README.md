@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isi.</h1>
 <h3 align="center">A passionate Full-stack developer.</h3>
 
-🔭 I’m currently working on multiple projects:
-- [Near city(presentation video)](https://drive.google.com/file/d/1WB2kjb_xIZLmh9wYbobJENGea8_rMr38/view?usp=sharing)
-- [Madness fitness center](https://github.com/ismayil-allahverdiyev/madness_web)
-
 👨‍💻 All of my projects are available at [https://github.com/ismayil-allahverdiyev](https://github.com/ismayil-allahverdiyev)
 
 💬 Ask me about **Flutter, ASP.NET, React.js, Node.js**
